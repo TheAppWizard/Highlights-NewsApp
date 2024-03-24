@@ -8,6 +8,9 @@ Highlights is a Flutter-based news app that aims to deliver personalized news co
 - **Explore Topics**: Explore a wide range of topics including technology, sports, politics, entertainment, and more.
 - **Daily Updates**: Get Daily Updated News.
 
+![png](https://github.com/TheAppWizard/Highlights-NewsApp/assets/70090469/db853ac4-06f4-4853-9408-238d8bd48f36)
+
+
 ## Installation
 
 1. Clone this repository.
