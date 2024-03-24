@@ -6,11 +6,7 @@ Highlights is a Flutter-based news app that aims to deliver personalized news co
 
 - **Personalized News Feed**: Receive a customized news feed based on your interests and preferences.
 - **Explore Topics**: Explore a wide range of topics including technology, sports, politics, entertainment, and more.
-- **Save Articles**: Save articles to read later or refer back to.
-- **Offline Reading**: Access saved articles even when you're offline.
-- **Search**: Easily search for specific articles or topics.
-- **Dark Mode Support**: Enjoy reading news in low-light conditions with dark mode support.
-- **Notifications**: Stay updated with breaking news and personalized alerts.
+- **Daily Updates**: Get Daily Updated News.
 
 ## Installation
 
