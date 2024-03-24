@@ -20,6 +20,15 @@ Highlights is a Flutter-based news app that aims to deliver personalized news co
 - Upon launching the app, you'll be prompted to choose your interests to customize your news feed.
 - Browse through the personalized news feed to stay updated on the latest articles.
 
+
+### Dependencies
+
+- **webfeed_plus**: Used for parsing RSS or Atom feeds to fetch news articles.
+- **http**: Allows making HTTP requests to fetch data from APIs.
+- **intl**: Provides internationalization support for your app.
+- **webview_flutter**: Enables embedding webviews within the app for displaying web content.
+- **shared_preferences**: Used for persistently storing simple data such as user preferences.
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Highlights, please follow these steps:
