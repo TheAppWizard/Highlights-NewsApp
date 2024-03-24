@@ -43,7 +43,7 @@ Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md) and [contri
 
 ## Credits
 
-Highlights is developed and maintained by [Your Name].
+Highlights is developed and maintained by [Shreyas Bhike].
 
 ## License
 
