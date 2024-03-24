@@ -29,6 +29,11 @@ Highlights is a Flutter-based news app that aims to deliver personalized news co
 - **webview_flutter**: Enables embedding webviews within the app for displaying web content.
 - **shared_preferences**: Used for persistently storing simple data such as user preferences.
 
+### Credits 
+
+- **Lufga Font**: https://font.download/font/lufga#google_vignette
+- **Profile Images**: img.freepik.com
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Highlights, please follow these steps:
